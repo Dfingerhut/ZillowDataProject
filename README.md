@@ -1,1 +1,3 @@
 # ZillowDataProject
+
+In this case study I set out to search Zillow house postings and gather a few key features from the listings. I thought it most important to gather the price, address, number of beds, baths, and square feet if listed to compare listings in the current market. I did so by generating a WebScraper in Jupyter Notebook using the BeautifulSoup Library in Python. A spreadsheet was then generated and imported into Excel, where using the get data function, it was cleaned and organized for better interpretation. The cleaned data was then loaded into Tableau for visualization and analysis. I did this to quickly gain insight into markets for buying a future home or to potentially invest in. 
